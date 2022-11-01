@@ -1,0 +1,4 @@
+halucinator/dist/
+halucinator/pydoc/
+halucinator/doc/build/
+__pycache__
